@@ -20,4 +20,4 @@ P5: :<br>
 
 
 
-![alt text](https://github.com/sinusgamma/Deep-Learning-Nanodegree/blob/master/cert.jpg)
+![alt text](https://github.com/sinusgamma/Deep-Learning-Nanodegree/blob/master/cert.JPG)
